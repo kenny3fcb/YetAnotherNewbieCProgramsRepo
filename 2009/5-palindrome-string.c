@@ -1,0 +1,1 @@
+../2005/4a-palindrome-string.c

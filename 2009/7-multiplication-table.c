@@ -1,0 +1,1 @@
+../2005/2b-multiplication-table.c

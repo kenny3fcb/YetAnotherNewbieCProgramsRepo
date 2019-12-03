@@ -1,0 +1,1 @@
+../2010/2-palindrome-number.c
